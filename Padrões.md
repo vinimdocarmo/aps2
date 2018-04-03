@@ -1,3 +1,7 @@
+# Equipe
+
+Vinícius Magalhães do Carmo
+
 # Caso de Uso
 
 O caso de uso implementado foi _Efetuação de um pagamento_.
