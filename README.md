@@ -7,7 +7,7 @@
 - [Implementação](https://github.com/vinimdocarmo/aps2/tree/master/src/com/company) (Item 2.3)
   - [Detalhes e Padrões usados](https://github.com/vinimdocarmo/aps2/blob/master/Padr%C3%B5es.md)
   
-  # Trabalho AV2 APS II
+# Trabalho AV2 APS II
 
 - [Implementação](#)
   - [Descrição dos aspectos](#)
